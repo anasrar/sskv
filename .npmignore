@@ -1,0 +1,6 @@
+node_modules/
+.eslintrc.yml
+main.ts
+.prettierignore
+.prettierrc.yml
+tsconfig.json
