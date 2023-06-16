@@ -1,9 +1,9 @@
 {
 	"name": "sskv",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Super simple key value with type safety and implement your own load and save function.",
 	"main": "dist/main.js",
-	"module": "dist/main.m.js",
+	"module": "dist/main.mjs",
 	"types": "dist/main.d.ts",
 	"scripts": {
 		"lint": "tsc",
